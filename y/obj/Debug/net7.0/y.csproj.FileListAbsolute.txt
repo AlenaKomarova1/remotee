@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\y\bin\Debug\net7.0\y.exe
+C:\Users\Professional\Desktop\y\bin\Debug\net7.0\y.deps.json
+C:\Users\Professional\Desktop\y\bin\Debug\net7.0\y.runtimeconfig.json
+C:\Users\Professional\Desktop\y\bin\Debug\net7.0\y.dll
+C:\Users\Professional\Desktop\y\bin\Debug\net7.0\y.pdb
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.AssemblyInfo.cs
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.dll
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\refint\y.dll
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.pdb
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\y.genruntimeconfig.cache
+C:\Users\Professional\Desktop\y\obj\Debug\net7.0\ref\y.dll
